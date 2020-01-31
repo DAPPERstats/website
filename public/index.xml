@@ -1,15 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
+    <title>DAPPER Stats - on-point quantitative analysis and data solutions</title>
     <link>/</link>
-    <description>Recent content on A Hugo website</description>
+    <description>Recent content on DAPPER Stats - on-point quantitative analysis and data solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2020 21:48:51 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Fri, 24 Jan 2020 21:48:51 -0700</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Ready to have DAPPER Stats create your customized, data-driven solution? Use the contact form below, and we can start bringing our scientific expertise to tackle your unique problem.</description>
+    </item>
+    
+    <item>
+      <title>Positions</title>
+      <link>/positions/</link>
+      <pubDate>Fri, 24 Jan 2020 21:48:51 -0700</pubDate>
+      
+      <guid>/positions/</guid>
+      <description>Open Positions at DAPPER Stats At this time, there are no open positions at DAPPER Stats.
+Previous Postings at DAPPER Stats Data Scientist
+We are seeking a motivated data scientist to join our team and help expand our company by assisting with ongoing projects focused on Pacific coast fisheries, avian impacts of renewable power facilities, and wetland mitigation designs, as well as by leading new projects aligned with their interests.</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>/services/</link>
+      <pubDate>Fri, 24 Jan 2020 21:48:51 -0700</pubDate>
+      
+      <guid>/services/</guid>
+      <description>Dapper Stats provides customized, data-driven solutions by bringing a scientific approach to problems. Complicated and technical data is where we live. All of that complexity under the hood that you never want to look at? We’ll look at it. We’ll analyze it, distill it, and transform it into useful and actionable products.
+Let us comb through the mess to give you a clean presentation of your data and the tools you need to pursue solutions.</description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
@@ -18,7 +48,7 @@
       
       <guid>/2016/12/30/a-plain-markdown-post/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+ You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&#39;s Markdown and Pandoc&#39;s Markdown.</description>
     </item>
     
     <item>
@@ -27,7 +57,8 @@
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>We work primarily in the biological sciences, and specialize in population biology, conservation, and biometrics. Our clients include academic institutions, non-profit organizations, government agencies, and local municipalities.
+DAPPER founder Juniper (they/them) Simonis studied Integrative Biology at the University of Illinois: Urbana-Champaign as an undergraduate and obtained their PhD in Ecology and Evolutionary Biology from Cornell University. Juniper brings over a decade of experience in the fields of quantitative and conservation biology to DAPPER.</description>
     </item>
     
     <item>
@@ -36,9 +67,9 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/2015/07/23/hello-r-markdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
     <item>

@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
-theme = "hugo-lithium"
+title = "DAPPER Stats - on-point quantitative analysis and data solutions"
+theme = "dapperstats"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -12,15 +12,22 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "About"
     url = "/about/"
+    weight = "1"
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    name = "Services"
+    url = "/services/"
+    weight = "2"
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    name = "Positions"
+    url = "/positions/"
+    weight = "3"
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = "4"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "On-point quantitative analysis and data solutions."
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
@@ -35,8 +42,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     favicon = "favicon.ico"
 
     [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
-    alt = "Logo"
+    url = "logo_header.png"
+    width = 240
+    height = 105
+    alt = "DAPPER Stats - Logo"
 

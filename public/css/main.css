@@ -778,17 +778,17 @@ code {
 /*--------------------------------------------------------------
 7.0 Alignments
 --------------------------------------------------------------*/
-.alignleft {
+.alignleft, img[src*="#alignleft"] {
   display: inline;
   float: left;
   margin-right: 1.5em;
 }
-.alignright {
+.alignright, img[src*="#alignright"] {
   display: inline;
   float: right;
   margin-left: 1.5em;
 }
-.aligncenter {
+.aligncenter, img[src*="#aligncenter"] {
   clear: both;
   display: block;
   margin: 0 auto;

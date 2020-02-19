@@ -3,7 +3,7 @@ date: "2020-01-24T21:48:51-07:00"
 title: Services
 ---
 
-![](/images/edit1-300x300.jpg)
+![Juniper at their desk](/images/edit1-300x300.jpg#alignright)
 # Dapper Stats provides customized, data-driven solutions by bringing a scientific approach to problems.
 
 Complicated and technical data is where we live. All of that complexity under the hood that you never want to look at? We’ll look at it. We’ll analyze it, distill it, and transform it into useful and actionable products.

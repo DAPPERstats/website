@@ -3,7 +3,7 @@ title: "About"
 date: "2016-05-05T21:48:51-07:00"
 ---
 
-![](/images/edit4_web-190x300.jpg)
+![Juniper Simonis, PhD](/images/edit4_web-190x300.jpg#alignright)
 <h3>DAPPER Stats provides on-point quantitative research and support for every stage in the scientific process.</h3>
 
 We work primarily in the biological sciences, and specialize in population biology, conservation, and biometrics. Our clients include academic institutions, non-profit organizations, government agencies, and local municipalities.

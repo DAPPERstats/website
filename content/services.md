@@ -15,12 +15,12 @@ Our data solutions are customized for your needs, be they big or small, complex 
 Whatever your data needs, we are here to make it clean, presentable, and sleek. We’re here to make it DAPPER.
 
 Specific services include:
-Grant Preparation and Editing
-Data Management
-Experimental Design
-Statistical Analyses
-Predictive Modeling
-Scientific Writing and Editing
-Non-Technical Writing and Editing
-Data Visualization and Presentation
-Teaching and Training in Statistical Coding
+* Grant Preparation and Editing
+* Data Management
+* Experimental Design
+* Statistical Analyses
+* Predictive Modeling
+* Scientific Writing and Editing
+* Non-Technical Writing and Editing
+* Data Visualization and Presentation
+* Teaching and Training in Statistical Coding

@@ -12,73 +12,14 @@
     
     
     <item>
-      <title>Contact</title>
-      <link>/contact/</link>
+      <title></title>
+      <link>/</link>
       <pubDate>Fri, 24 Jan 2020 21:48:51 -0700</pubDate>
       
-      <guid>/contact/</guid>
-      <description>Ready to have DAPPER Stats create your customized, data-driven solution? Use the contact form below, and we can start bringing our scientific expertise to tackle your unique problem.</description>
-    </item>
-    
-    <item>
-      <title>Positions</title>
-      <link>/positions/</link>
-      <pubDate>Fri, 24 Jan 2020 21:48:51 -0700</pubDate>
-      
-      <guid>/positions/</guid>
-      <description>Open Positions at DAPPER Stats At this time, there are no open positions at DAPPER Stats.
-Previous Postings at DAPPER Stats Data Scientist
-We are seeking a motivated data scientist to join our team and help expand our company by assisting with ongoing projects focused on Pacific coast fisheries, avian impacts of renewable power facilities, and wetland mitigation designs, as well as by leading new projects aligned with their interests.</description>
-    </item>
-    
-    <item>
-      <title>Services</title>
-      <link>/services/</link>
-      <pubDate>Fri, 24 Jan 2020 21:48:51 -0700</pubDate>
-      
-      <guid>/services/</guid>
-      <description>Dapper Stats provides customized, data-driven solutions by bringing a scientific approach to problems. Complicated and technical data is where we live. All of that complexity under the hood that you never want to look at? We’ll look at it. We’ll analyze it, distill it, and transform it into useful and actionable products.
-Let us comb through the mess to give you a clean presentation of your data and the tools you need to pursue solutions.</description>
-    </item>
-    
-    <item>
-      <title>A Plain Markdown Post</title>
-      <link>/2016/12/30/a-plain-markdown-post/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
-      
-      <guid>/2016/12/30/a-plain-markdown-post/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&#39;s Markdown and Pandoc&#39;s Markdown.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>We work primarily in the biological sciences, and specialize in population biology, conservation, and biometrics. Our clients include academic institutions, non-profit organizations, government agencies, and local municipalities.
-DAPPER founder Juniper (they/them) Simonis studied Integrative Biology at the University of Illinois: Urbana-Champaign as an undergraduate and obtained their PhD in Ecology and Evolutionary Biology from Cornell University. Juniper brings over a decade of experience in the fields of quantitative and conservation biology to DAPPER.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/2015/07/23/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>/2015/01/01/lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      
-      <guid>/2015/01/01/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>/</guid>
+      <description>Customized Data Solutions to Help You Solve Problems Raw data can be messy, specialized, and dense, no matter what field you are in. DAPPER is here to comb through the mess, and give you a clean, well-realized understanding of your numbers, so you can focus on what is important, and start pursuing solutions quickly.
+Learn More »
+Transforming Raw Data Into Resources You Can Use We spruce up your raw data.</description>
     </item>
     
   </channel>

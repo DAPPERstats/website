@@ -237,6 +237,10 @@ code {
 3.0 Homepage
 --------------------------------------------------------------*/
 
+#info-regions {
+  margin-bottom: 50px;
+}
+
 #info-region .btn-default {
   border: 0px;
   box-shadow: none;

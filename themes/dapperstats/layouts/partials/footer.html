@@ -1,5 +1,6 @@
   </div><!--primary-->
-  {{ if .isHome }}
+  {{ if .IsHome }}
+  {{ else }}
     {{ partial "sidebar" . }}
   {{ end }}
 </div>

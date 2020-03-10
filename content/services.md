@@ -4,7 +4,7 @@ title: Services
 ---
 
 ![Juniper at their desk](/images/edit1-300x300.jpg#alignright)
-# Dapper Stats provides customized, data-driven solutions by bringing a scientific approach to problems.
+### Dapper Stats provides customized, data-driven solutions by bringing a scientific approach to problems.
 
 Complicated and technical data is where we live. All of that complexity under the hood that you never want to look at? We’ll look at it. We’ll analyze it, distill it, and transform it into useful and actionable products.
 
@@ -15,12 +15,12 @@ Our data solutions are customized for your needs, be they big or small, complex 
 Whatever your data needs, we are here to make it clean, presentable, and sleek. We’re here to make it DAPPER.
 
 Specific services include:
-* Grant Preparation and Editing
-* Data Management
-* Experimental Design
-* Statistical Analyses
-* Predictive Modeling
-* Scientific Writing and Editing
-* Non-Technical Writing and Editing
-* Data Visualization and Presentation
-* Teaching and Training in Statistical Coding
+- Grant Preparation and Editing
+- Data Management
+- Experimental Design
+- Statistical Analyses
+- Predictive Modeling
+- Scientific Writing and Editing
+- Non-Technical Writing and Editing
+- Data Visualization and Presentation
+- Teaching and Training in Statistical Coding

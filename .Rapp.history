@@ -1,3 +1,1 @@
 blogdown::serve_site()
-blogdown::serve_site()
-run servr::daemon_stop(2)

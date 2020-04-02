@@ -14,4 +14,4 @@ DAPPER has a governing philosophy that the final data product should be easy to 
 
 We thrive when analyzing the viability of adaptively managed populations, estimating take of endangered species, and describing the spatial dynamics of ecological systems, but that’s not all we do. DAPPER Stats is also committed to making STEM fields more inclusive and welcoming to a diversity of people. To that end, we provide educational and training services for institutions interested in making science as diverse as nature.
 
-DAPPER Stats is a certified woman-owned business and a certified emerging small business.
+DAPPER Stats is a certified woman-owned business and a certified emerging small business. 

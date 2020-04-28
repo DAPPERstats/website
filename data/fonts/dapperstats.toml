@@ -1,0 +1,11 @@
+# Font style metadata
+name = "dapperstats"
+
+# Optional Google font URL
+google_fonts = "Merriweather"
+
+# Font families
+heading_font = "Merriweather"
+body_font = "Merriweather, serif"
+nav_font = "Merriweather, serif"
+mono_font = "Merriweather Mono"

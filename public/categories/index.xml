@@ -1,14 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on DAPPER Stats - on-point quantitative analysis and data solutions</title>
+    <title>Categories | DAPPER Stats</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on DAPPER Stats - on-point quantitative analysis and data solutions</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/social_share.jpg</url>
+      <title>Categories</title>
+      <link>/categories/</link>
+    </image>
     
   </channel>
 </rss>

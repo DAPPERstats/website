@@ -6,28 +6,19 @@ layout: docs
 title: ""
 ---
 
-## Scope
+![](/img/bookshelf_lean.jpg#alignright)
+
+# Services
+
 
 DAPPER Stats provides on-point quantitative support for every stage of the research process, across academic and applied settings.
-
-&nbsp;
-
-
-## Domain
-
-We work primarily in the biological sciences, with specialties in population biology, conservation, wildlife management, and aquatic systems.
-
-However, we are generalists when it comes to both systems and questions, and are happy to help clients across a range of domains.
-
-&nbsp;
-
-
-## Services
 
 ### Experimental Design
 
 * Cost-benefit and power analyses
 * Real-time adaptive management
+
+![](/img/whiteboard.jpg#alignright)
 
 ### Analysis
 
@@ -42,6 +33,8 @@ However, we are generalists when it comes to both systems and questions, and are
 * Publication-ready figures
 * Spatial population and ecosystem mapping
 
+![](/img/portal_flow.png#alignright)
+
 ### Automated Reporting
 
 * Markdown integration
@@ -53,7 +46,10 @@ However, we are generalists when it comes to both systems and questions, and are
 * Continuous integration/analysis/deployment
 * Archival version control
 
+
 ### Code Support
+
+![](/img/writing.jpg#alignright)
 
 * R/Rstudio/Shiny
 * C/C++
@@ -73,6 +69,15 @@ However, we are generalists when it comes to both systems and questions, and are
 
 * Coding and analyses workshops
 * On-call assistance
+
+&nbsp;
+
+
+## Domain
+
+We work primarily in the biological sciences, with specialties in population biology, conservation, wildlife management, and aquatic systems.
+
+However, we are generalists when it comes to both systems and questions, and are happy to help clients across a range of domains.
 
 &nbsp;
 

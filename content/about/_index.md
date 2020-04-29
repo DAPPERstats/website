@@ -6,7 +6,11 @@ layout: docs
 title: ""
 ---
 
+## History
+
 Dr. Juniper L. Simonis *(they/them)* founded DAPPER Stats in 2015 with a mission to provide quantitative support for every step of the research process for science in academic and applied settings.
+
+## Status
 
 DAPPER Stats is incorporated as an Oregon LLC and a United States S-Corp, and is certified as a woman-owned and emerging small business at both the federal and state levels. 
 

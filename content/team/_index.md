@@ -7,6 +7,10 @@ title: ""
 ---
 
 
+# **Team [DAPPER](/about)**
+
+&nbsp;
+
 ## Dr. Juniper L. Simonis (*they/them*)
 
 ![](/img/simonis.jpg#alignright)

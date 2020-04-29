@@ -19,10 +19,18 @@
   margin-right: 1.5em;
 }
 .alignright, img[src*="#alignright"] {
+  clear: both;
   display: inline;
   float: right;
   margin-left: 1.5em;
 }
+
+.alignright, img[src*="#alignrighticon"] {
+  float: right;
+  margin-left: 1.5em;
+  height: 80px;
+}
+
 .aligncenter, img[src*="#aligncenter"] {
   clear: both;
   display: block;

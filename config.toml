@@ -1,49 +1,71 @@
+title = "DAPPER Stats"
 baseurl = "/"
-languageCode = "en-us"
-title = "DAPPER Stats - on-point quantitative analysis and data solutions"
-theme = "dapperstats"
-googleAnalytics = ""
-disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+copyright = "&copy; DAPPER Stats, {year}"
+theme = "hugo-academic"
+enableGitInfo = false
+
+defaultContentLanguage = "en"
+hasCJKLanguage = false  
+defaultContentLanguageInSubdir = false
+removePathAccents = true  
+
+summaryLength = 30  
+paginate = 10  
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
-    post = "/:year/:month/:day/:slug/"
+  authors = "/author/:slug/"
+  tags = "/tag/:slug/"
+  categories = "/category/:slug/"
+  publication_types = "/publication-type/:slug/"
+  post = "/:year/:month/:day/:slug/"
 
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = "1"
-[[menu.main]]
-    name = "Services"
-    url = "/services/"
-    weight = "2"
-[[menu.main]]
-    name = "Positions"
-    url = "/positions/"
-    weight = "3"
-[[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = "4"
+[outputs]
+  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
+  section = [ "HTML", "RSS" ]
 
-[params]
-    description = "On-point quantitative analysis and data solutions."
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
 
-    # options for highlight.js (version, additional languages, and theme)
-    highlightjsVersion = "9.12.0"
-    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
-    highlightjsLang = ["r", "yaml"]
-    highlightjsTheme = "github"
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"
 
-    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
-    MathJaxVersion = "2.7.5"
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  
+  [markup.highlight]
+    codeFences = false  
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
 
-    # path to the favicon, under "static"
-    favicon = "favicon.ico"
+[imaging]
+  resampleFilter = "lanczos"
+  quality = 90
+  anchor = "smart"  
 
-    [params.logo]
-    url = "logo_header.png"
-    width = 240
-    height = 105
-    alt = "DAPPER Stats - Logo"
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+  author = "authors"
 
+[[params.social]]
+  icon = "envelope"
+  icon_pack = "fab"
+  link = "mailto:contact@dapperstats.com"
+
+[[params.social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "//twitter.com/dapperstats"
+
+[[params.social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "//github.com/dapperstats"

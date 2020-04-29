@@ -1,0 +1,47 @@
+---
+header:
+  caption: ""
+  image: ""
+layout: docs
+title: ""
+---
+
+
+# **Team [DAPPER](/about)**
+
+&nbsp;
+
+## Dr. Juniper L. Simonis (*they/them*)
+
+![](/img/simonis.jpg#alignright)
+
+*Owner, Founder, Lead Scientist*
+
+Dr. Juniper Simonis brings over 15 years' experience in the fields of statistical, theoretical, and computational conservation biology to DAPPER.
+
+Dr. Simonis studied Integrative Biology at the [University of Illinois: Urbana-Champaign](https://illinois.edu/) as an undergraduate (BS 2006) and obtained their PhD in [Ecology and Evolutionary Biology](https://ecologyandevolution.cornell.edu/) from [Cornell University](https://www.cornell.edu/) in 2013.
+
+On the way to and since starting DAPPER Stats, Dr. Simonis has also been a Postdoctoral Fellow at [Lincoln Park Zoo](https://www.lpzoo.org/)'s [Alexander Center for Applied Population Biology](https://www.lpzoo.org/conservation-science/research-centers/alexander-center-applied-population-biology), a Biometrician at [Cramer Fish Sciences](https://www.fishsciences.net/), and a Data Analyst in the [Weecology Lab](https://www.weecology.org/) at the [University of Florida](http://www.ufl.edu/).
+
+Outside of work, Dr. Simonis is a 4-time world champion athlete ([WFTDA](https://wftda.com/)) with the [Rose City Rollers](https://www.rosecityrollers.com)' [Wheels of Justice](https://www.rosecityrollers.com/teams/wheels-of-justice/), a lifelong percussionist, an avid urban farmer, and lover of jigsaw puzzles.
+
+
+&nbsp;
+
+
+## Dr. Megan L. Larsen (*she/her*)
+
+![](/img/larsen.jpg#alignright)
+
+*Data Scientist*
+
+Dr. Megan Larsen has worked in environmental sciences for over a decade, with an interest in microbial ecology and the health of aquatic ecosystems.
+
+Dr. Larsen obtained her BS in Biochemistry and Molecular Biology from [Nebraska Wesleyan University](https://www.nebrwesleyan.edu/) in 2009 and her PhD in [Evolution, Ecology, and Behavior](https://biology.indiana.edu/graduate/evolution-ecology-behavior/index.html) from [Indiana University](https://www.indiana.edu/) in 2016.
+
+Since graduating from IU, Dr. Larsen has been a Postdoctoral Fellow in the [Department of Geography and Environmental Studies](https://students.wlu.ca/programs/arts/geography-and-environmental-studies/index.html) at [Wilfrid Laurier University](https://www.wlu.ca/) joint with the [Department of and Earth and Environmental Sciences](https://uwaterloo.ca/earth-environmental-sciences/about) at the [University of Waterloo](https://uwaterloo.ca/).
+
+Dr. Larsen joined DAPPER Stats in 2020 as a Data Scientist.
+
+While not working, Dr. Larsen is a distance runner.
+

@@ -2,10 +2,12 @@
 name = "dapperstats"
 
 # Optional Google font URL
-google_fonts = "Merriweather"
+google_fonts = "Lato:400,700|Merriweather|Merriweather+Serif|Roboto+Mono|Playfair+Display+SC|Dosis:600"
 
 # Font families
-heading_font = "Merriweather"
-body_font = "Merriweather, serif"
-nav_font = "Merriweather, serif"
-mono_font = "Merriweather Mono"
+heading_font = "Lato"
+body_font = "Merriweather"
+nav_font = "Dosis"
+mono_font = "Roboto Mono"
+
+

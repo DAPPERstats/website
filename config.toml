@@ -1,6 +1,6 @@
 title = "DAPPER Stats"
 baseurl = "/"
-copyright = "&copy; 2020"
+copyright = "&copy; DAPPER Stats, {year}"
 theme = "hugo-academic"
 enableGitInfo = false
 
@@ -55,10 +55,9 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   publication_type = "publication_types"
   author = "authors"
 
-
 [[params.social]]
   icon = "envelope"
-  icon_pack = "fa"
+  icon_pack = "fab"
   link = "mailto:contact@dapperstats.com"
 
 [[params.social]]

@@ -12,10 +12,6 @@
   {{ end }}
 
   <p class="powered-by">
-    <a href="/about/" rel="noopener">About DAPPER</a>
-  </p>
-
-  <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 
     Powered by the

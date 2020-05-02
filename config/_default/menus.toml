@@ -19,10 +19,24 @@
   weight = "4"
 
 [[main]]
+  name = "About"
+  identifier = "about"
+  url = ""
+  weight = "5"
+
+[[main]]
   name = "Team"
   identifier = "team"
   url = "/team/"
-  weight = "5"
+  weight = "501"
+  parent = "about"
+
+[[main]]
+  name = "DAPPER"
+  identifier = "dapper"
+  url = "/about/"
+  weight = "502"
+  parent = "about"
 
 [[main_right]]
   url = "mailto:contact@dapperstats.com"

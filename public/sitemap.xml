@@ -118,11 +118,19 @@
   </url>
   
   <url>
-    <loc>/team/</loc>
+    <loc>/author/dr.-juniper-l.-simonis/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr.-megan-l.-larsen/</loc>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>/team/</loc>
   </url>
   
 </urlset>

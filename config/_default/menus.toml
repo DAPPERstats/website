@@ -24,6 +24,7 @@
   url = ""
   weight = "5"
 
+
 [[main]]
   name = "Team"
   identifier = "team"
@@ -39,7 +40,7 @@
   parent = "about"
 
 [[main_right]]
-  url = "mailto:contact@dapperstats.com"
+  url = "/contact/"
   name = "<i class='far fa-envelope' style='color:#333'></i>"
   identifier = "mail"
   weight = 1

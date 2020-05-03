@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>false | DAPPER Stats</title>
+    <link>/author/false/</link>
+      <atom:link href="/author/false/index.xml" rel="self" type="application/rss+xml" />
+    <description>false</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© DAPPER Stats, 2020</copyright>
+    <image>
+      <url>/img/hex_logo.png</url>
+      <title>false</title>
+      <link>/author/false/</link>
+    </image>
+    
+    <item>
+      <title>MATSS</title>
+      <link>/software_products/matss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/software_products/matss/</guid>
+      <description>&lt;p&gt;An in-progress R package to Conduct Macroecological Analyses of Time Series Structure.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

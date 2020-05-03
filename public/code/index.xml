@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codes | DAPPER Stats</title>
+    <link>/code/</link>
+      <atom:link href="/code/index.xml" rel="self" type="application/rss+xml" />
+    <description>Codes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© DAPPER Stats, 2020</copyright>
+    <image>
+      <url>/img/hex_logo.png</url>
+      <title>Codes</title>
+      <link>/code/</link>
+    </image>
+    
+    <item>
+      <title>accessor</title>
+      <link>/code/accessor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/code/accessor/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://github.com/dapperstats.com/accessor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;accessor&lt;/code&gt;&lt;/a&gt; allows access Access&lt;sup&gt;®&lt;/sup&gt; databases without access to Access&lt;sup&gt;®&lt;/sup&gt;&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://orcid.org/0000-0001-9798-0460&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Juniper L. Simonis&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>gendrendr</title>
+      <link>/code/gendrendr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/code/gendrendr/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://dapperstats.github.io/gendrendr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;gendrendr&lt;/code&gt;&lt;/a&gt; contains a simple set of functions designed to highlight the inaccuracy and violence of assigning genders to others.&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://orcid.org/0000-0001-9798-0460&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Juniper L. Simonis&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GenEst</title>
+      <link>/code/genest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/code/genest/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://github.com/dapperstats.com/salvage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;GenEst&lt;/code&gt;&lt;/a&gt; is a tool for estimating mortalities from efficiency, persistence, and carcass data.&lt;/p&gt;
+&lt;p&gt;A 
+&lt;a href=&#34;https://west-inc.shinyapps.io/GenEst/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;live instance of the web application&lt;/a&gt; is available for general usage.&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://orcid.org/0000-0002-4815-6309&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Dalthorp&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0001-9798-0460&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Juniper L. Simonis&lt;/strong&gt;&lt;/a&gt;
+
+&lt;a href=&#34;https://stat.oregonstate.edu/content/madsen-lisa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lisa Madsen&lt;/a&gt;,
+
+&lt;a href=&#34;http://orcid.org/0000-0003-4687-6625&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Manuela Huso&lt;/a&gt;,
+
+&lt;a href=&#34;https://www.west-inc.com/staff/paul-rabie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paul Rabie&lt;/a&gt;,
+
+&lt;a href=&#34;http://orcid.org/0000-0003-4345-366X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeffrey Mintz&lt;/a&gt;,
+
+&lt;a href=&#34;http://www2.stat.duke.edu/~rlw/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robert Wolpert&lt;/a&gt;,
+
+&lt;a href=&#34;https://www.west-inc.com/staff/jared-studyvin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jared Studyvin&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0001-9081-3563&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Franzi Korner-Nievergelt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LDATS</title>
+      <link>/code/ldats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/code/ldats/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://weecology.github.io/LDATS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;LDATS&lt;/code&gt;&lt;/a&gt; is an R package for analyzing time series of high-dimensional data using a two-stage approach comprised of Latent Dirichlet Allocation (LDA) and Bayesian time series (TS) analyses.&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://orcid.org/0000-0001-9798-0460&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Juniper L. Simonis&lt;/strong&gt;&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0002-5635-2502&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erica M. Christensen&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0003-3332-9307&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David J. Harris&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0003-0803-4734&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Renata M. Diaz&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0002-8630-1458&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hao Ye&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0001-6728-7745&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ethan White&lt;/a&gt;,
+and
+
+&lt;a href=&#34;https://orcid.org/0000-0002-6026-8530&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;S. K. Morgan Ernest&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Loss Calculator</title>
+      <link>/code/loss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/code/loss/</guid>
+      <description>&lt;p&gt;Estimating Loss of Chinook Salmon and Natural-Origin Steelhead at the Central Valley Project and State Water Project.&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://orcid.org/0000-0001-9798-0460&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Juniper L. Simonis&lt;/strong&gt;&lt;/a&gt;
+
+&lt;a href=&#34;http://orcid.org/0000-0003-4330-1236&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steven Zeug&lt;/a&gt;, and
+
+&lt;a href=&#34;http://orcid.org/0000-0001-6736-275X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kai Ross&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MATSS</title>
+      <link>/code/matss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/code/matss/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://weecology.github.io/MATSS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;MATSS&lt;/code&gt;&lt;/a&gt; is an R package for conducting Macroecological Analyses of Time Series Structure.
+We designed it to help researchers quickly get started in analyses of ecological time series, and to reinforce and spread good practices in computational analyses.&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://orcid.org/0000-0002-8630-1458&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hao Ye&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0002-3629-7235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ellen Bledsoe&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0003-0803-4734&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Renata Diaz&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0002-6026-8530&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;S. K. Morgan Ernest&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0001-9798-0460&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Juniper Simonis&lt;/strong&gt;&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0001-6728-7745&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ethan White&lt;/a&gt;,
+and
+
+&lt;a href=&#34;https://orcid.org/0000-0001-6969-1848&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Glenda Yenni&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>portalcasting</title>
+      <link>/code/portalcasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/code/portalcasting/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://weecology.github.io/portalcasting/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;portalcasting&lt;/code&gt;&lt;/a&gt; provides support for 
+&lt;a href=&#34;https://github.com/weecology/portalPredictions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;automated forecasting&lt;/a&gt; of 
+&lt;a href=&#34;https://portal.weecology.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rodent populations&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://orcid.org/0000-0001-9798-0460&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Juniper L. Simonis&lt;/strong&gt;&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0001-6969-1848&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Glenda Yenni&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0002-3629-7235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ellen Bledsoe&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0002-5635-2502&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erica M. Christensen&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0002-8630-1458&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hao Ye&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0001-6728-7745&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ethan White&lt;/a&gt;,
+and
+
+&lt;a href=&#34;https://orcid.org/0000-0002-6026-8530&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;S. K. Morgan Ernest&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>portalr</title>
+      <link>/code/portalr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/code/portalr/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://weecology.github.io/portalr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;portalr&lt;/code&gt;&lt;/a&gt; provides collection of basic functions to summarize the  
+&lt;a href=&#34;https://portal.weecology.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Portal project data&lt;/a&gt; on rodents, plants, ants, and weather at our long-term field site in the Chihuahuan Desert.
+The data begin in 1977 and are continuously updated today.
+There are functions to summarize rodent abundance, biomass, or energy and by site, plot, or treatment type.
+There are functions to summarize the weather data collected from our automated weather stations and plant data that is collected each summer and fall.&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://orcid.org/0000-0001-6969-1848&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Glenda Yenni&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0002-8630-1458&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hao Ye&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0002-5635-2502&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erica M. Christensen&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0001-9798-0460&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Juniper L. Simonis&lt;/strong&gt;&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0002-3629-7235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ellen Bledsoe&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0003-0803-4734&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Renata M. Diaz&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0002-6178-6903&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shawn D. Taylor&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0001-6728-7745&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ethan P. White&lt;/a&gt;,
+and
+
+&lt;a href=&#34;https://orcid.org/0000-0002-6026-8530&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;S. K. Morgan Ernest&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>salvage</title>
+      <link>/code/salvage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/code/salvage/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://github.com/dapperstats.com/salvage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;salvage&lt;/code&gt;&lt;/a&gt; provides tools for smooth interactions with the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Sacramento%E2%80%93San_Joaquin_River_Delta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;California Delta&lt;/a&gt; 
+&lt;a href=&#34;https://wildlife.ca.gov/Conservation/Delta/Salvage-Monitoring&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fish salvage monitoring database&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Each day, the 
+&lt;a href=&#34;https://github.com/dapperstats/salvage/blob/master/data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;/data&lt;/code&gt; directory&lt;/a&gt; is populated with &lt;code&gt;.csv&lt;/code&gt;s from an up-to-date &amp;ldquo;current&amp;rdquo; (1993 - Present) salvage database file (&lt;code&gt;Salvage_data_FTP.accdb&lt;/code&gt;).
+The &lt;code&gt;.csv&lt;/code&gt; files are then used to update the 
+&lt;a href=&#34;https://salvage.fish&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data presentation website (salvage.fish)&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://orcid.org/0000-0001-9798-0460&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Juniper L. Simonis&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

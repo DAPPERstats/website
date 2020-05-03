@@ -8,7 +8,7 @@ font_size = "L"
 site_type = "Corporation"
 org_name = "DAPPER Stats"
 
-description = ""
+description = "Homepage of DAPPER Stats"
 
 highlight = true
 highlight_languages = ["r"]  # Add support for highlighting additional languages
@@ -33,7 +33,7 @@ contact_links = [
   ]
 sharing_image = "hex_logo.png"
 twitter = "dapperstats"
-sharing = true
+sharing = false
 
 date_format = "2006-01-02"
 time_format = "15:04"

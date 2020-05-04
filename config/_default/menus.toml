@@ -3,14 +3,14 @@
   url = "/services/"
   weight = 1
 
-#[[main]]
-#  name = "Research"
-#  url = "/research/"
-#  weight = "2"
+[[main]]
+  name = "Projects"
+  url = "/research/"
+  weight = "2"
 
 [[main]]
   name = "Publications"
-  url = "/publications/"
+  url = "/pubs/"
   weight = "3"
 
 [[main]]
@@ -19,13 +19,28 @@
   weight = "4"
 
 [[main]]
+  name = "About"
+  identifier = "about"
+  url = ""
+  weight = "5"
+
+
+[[main]]
   name = "Team"
   identifier = "team"
   url = "/team/"
-  weight = "5"
+  weight = "501"
+  parent = "about"
+
+[[main]]
+  name = "DAPPER"
+  identifier = "dapper"
+  url = "/about/"
+  weight = "502"
+  parent = "about"
 
 [[main_right]]
-  url = "mailto:contact@dapperstats.com"
+  url = "/contact/"
   name = "<i class='far fa-envelope' style='color:#333'></i>"
   identifier = "mail"
   weight = 1

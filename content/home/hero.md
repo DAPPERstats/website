@@ -8,6 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "On-Point Quantitative Analyses"
 
 hero_media = "hat.jpg"
+hero_media_alttext = "A hat, bow-tie, and some math on a clipboard"
 
 [design.background]
   color = "#eaf9ff"
@@ -25,6 +26,11 @@ hero_media = "hat.jpg"
 [cta]
   url = "/services/"
   label = "Find out more <i class='fas fa-angle-double-right'></i>"
+
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["50px", "0", "0px", "0"] 
 
 +++
 

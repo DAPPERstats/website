@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software_pages | DAPPER Stats</title>
+    <link>/software_page/</link>
+      <atom:link href="/software_page/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software_pages</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© DAPPER Stats, 2020</copyright>
+    <image>
+      <url>/img/hex_logo.png</url>
+      <title>Software_pages</title>
+      <link>/software_page/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/software_page/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/software_page/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/software_page/xindex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/software_page/xindex/</guid>
+      <description>&lt;h2 id=&#34;software-packages&#34;&gt;Software Packages&lt;/h2&gt;
+&lt;h2 id=&#34;matsshttpsdoiorg105281zenodo3525595&#34;&gt;
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.3525595&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MATSS&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Conduct Macroecological Analyses of Time Series Structure&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; 
+ 
+ &lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.3525595&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/gendrendr.png#alignrighticon&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;gendrendrhttpsdoiorg105281zenodo3525595&#34;&gt;
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.3525595&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gendrendr&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Debinarizing gender&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; 
+ 
+ &lt;/p&gt;
+&lt;h2 id=&#34;ldatshttpscranr-projectorgpackageldats&#34;&gt;
+&lt;a href=&#34;https://cran.r-project.org/package=LDATS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LDATS&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Latent Dirichlet Allocation coupled with Bayesian Time Series analyses&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; 
+ 
+ &lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.3332973&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/portalcasting.png#alignrighticon&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;portalcastinghttpsdoiorg105281zenodo3332973&#34;&gt;
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.3332973&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;portalcasting&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Support for 
+&lt;a href=&#34;https://github.com/weecology/portalPredictions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;automated forecasting&lt;/a&gt; of 
+&lt;a href=&#34;https://portal.weecology.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rodent populations&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; 
+ 
+ &lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://cran.r-project.org/package=portalr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/portalr.png#alignrighticon&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;portalrhttpscranr-projectorgpackageportalr&#34;&gt;
+&lt;a href=&#34;https://cran.r-project.org/package=portalr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;portalr&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;A collection of functions to summarize the 
+&lt;a href=&#34;https://portal.weecology.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Portal Data&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; 
+ 
+ &lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/dapperstats/accessor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/accessor.png#alignrighticon&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;accessorhttpsgithubcomdapperstatsaccessor&#34;&gt;
+&lt;a href=&#34;https://github.com/dapperstats/accessor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;accessor&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Access Access&lt;sup&gt;®&lt;/sup&gt; Databases without Access to Access&lt;sup&gt;®&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; 
+ 
+ &lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/dapperstats/salvage/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/salvage.png#alignrighticon&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;salvagehttpsgithubcomdapperstatssalvage&#34;&gt;
+&lt;a href=&#34;https://github.com/dapperstats/salvage/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;salvage&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Smooth interactions with the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Sacramento%E2%80%93San_Joaquin_River_Delta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;California Delta&lt;/a&gt; 
+&lt;a href=&#34;https://wildlife.ca.gov/Conservation/Delta/Salvage-Monitoring&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fish salvage database&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; 
+ 
+ &lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://cran.r-project.org/package=GenEst&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/GenEst.png#alignrighticon&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;genesthttpscranr-projectorgpackagegenest&#34;&gt;
+&lt;a href=&#34;https://cran.r-project.org/package=GenEst&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GenEst&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Estimating bird and bat fatalities at wind and solar power facilities&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; 
+ 
+ 
+ &lt;/p&gt;
+&lt;h2 id=&#34;front-end-applications&#34;&gt;Front-End Applications&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://west-inc.shinyapps.io/GenEst/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;/img/GenEst_rect.png#alignrighticon&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;genesthttpswest-incshinyappsiogenest&#34;&gt;
+&lt;a href=&#34;https://west-inc.shinyapps.io/GenEst/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GenEst&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Estimating bird and bat fatalities at wind and solar power facilities&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;loss-calculatorhttpsfishsciencesshinyappsioloss-calculator&#34;&gt;
+&lt;a href=&#34;https://fishsciences.shinyapps.io/loss-calculator/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Loss Calculator&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Estimating Loss of Chinook Salmon and Natural-Origin steelhead at the Central Valley Project and State Water Project&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

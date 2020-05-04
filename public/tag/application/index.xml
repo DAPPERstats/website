@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>application | DAPPER Stats</title>
+    <link>/tag/application/</link>
+      <atom:link href="/tag/application/index.xml" rel="self" type="application/rss+xml" />
+    <description>application</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© DAPPER Stats, 2020</copyright>
+    <image>
+      <url>/img/hex_logo.png</url>
+      <title>application</title>
+      <link>/tag/application/</link>
+    </image>
+    
+    <item>
+      <title>GenEst</title>
+      <link>/code/genest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/code/genest/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://github.com/dapperstats.com/salvage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;GenEst&lt;/code&gt;&lt;/a&gt; is a tool for estimating mortalities from efficiency, persistence, and carcass data.&lt;/p&gt;
+&lt;p&gt;A 
+&lt;a href=&#34;https://west-inc.shinyapps.io/GenEst/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;live instance of the web application&lt;/a&gt; is available for general usage.&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://orcid.org/0000-0002-4815-6309&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Dalthorp&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0001-9798-0460&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Juniper L. Simonis&lt;/strong&gt;&lt;/a&gt;
+
+&lt;a href=&#34;https://stat.oregonstate.edu/content/madsen-lisa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lisa Madsen&lt;/a&gt;,
+
+&lt;a href=&#34;http://orcid.org/0000-0003-4687-6625&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Manuela Huso&lt;/a&gt;,
+
+&lt;a href=&#34;https://www.west-inc.com/staff/paul-rabie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paul Rabie&lt;/a&gt;,
+
+&lt;a href=&#34;http://orcid.org/0000-0003-4345-366X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeffrey Mintz&lt;/a&gt;,
+
+&lt;a href=&#34;http://www2.stat.duke.edu/~rlw/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robert Wolpert&lt;/a&gt;,
+
+&lt;a href=&#34;https://www.west-inc.com/staff/jared-studyvin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jared Studyvin&lt;/a&gt;,
+
+&lt;a href=&#34;https://orcid.org/0000-0001-9081-3563&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Franzi Korner-Nievergelt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Loss Calculator</title>
+      <link>/code/loss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/code/loss/</guid>
+      <description>&lt;p&gt;Estimating Loss of Chinook Salmon and Natural-Origin Steelhead at the Central Valley Project and State Water Project.&lt;/p&gt;
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://orcid.org/0000-0001-9798-0460&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Juniper L. Simonis&lt;/strong&gt;&lt;/a&gt;
+
+&lt;a href=&#34;http://orcid.org/0000-0003-4330-1236&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steven Zeug&lt;/a&gt;, and
+
+&lt;a href=&#34;http://orcid.org/0000-0001-6736-275X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kai Ross&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simonis, J. L. and J. E. Merz | DAPPER Stats</title>
+    <link>/author/simonis-j.-l.-and-j.-e.-merz/</link>
+      <atom:link href="/author/simonis-j.-l.-and-j.-e.-merz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simonis, J. L. and J. E. Merz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© DAPPER Stats, 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/hex_logo.png</url>
+      <title>Simonis, J. L. and J. E. Merz</title>
+      <link>/author/simonis-j.-l.-and-j.-e.-merz/</link>
+    </image>
+    
+    <item>
+      <title>Prey availability, environmental constraints, and aggregation dictate distribution of an imperiled fish</title>
+      <link>/publication/simonis_and_merz_2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/simonis_and_merz_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

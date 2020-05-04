@@ -9,6 +9,7 @@ date:
 authors: 
 -
 image:
+  alt_text: GenEst hex logo, just the name stylized
 links:
 - icon: r-project
   icon_pack: fab
@@ -18,9 +19,9 @@ links:
   icon_pack: fab
   name: source code
   url: https://github.com/ddalthorp/GenEst
-- icon: globe
+- icon: desktop
   icon_pack: fas
-  name: live web app
+  name: web app
   url: https://west-inc.shinyapps.io/GenEst/
 ---
 

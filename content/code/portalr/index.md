@@ -8,6 +8,7 @@ date:
 authors: 
 -
 image:
+  alt_text: portalr hex logo of a kangaroo rat running through a portal
 links:
 - icon: r-project
   icon_pack: fab
@@ -20,7 +21,7 @@ links:
 - icon: github
   icon_pack: fab
   name: source code
-  url: https://github.com/weecology.com/portalr
+  url: https://github.com/weecology/portalr
 - icon: archive
   icon_pack: fas
   name: archive

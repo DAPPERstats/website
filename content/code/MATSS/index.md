@@ -8,6 +8,7 @@ date:
 authors: 
 -
 image:
+  alt_text: aerial photo of patchwork drainage
 links:
 - icon: globe
   icon_pack: fas
@@ -16,7 +17,7 @@ links:
 - icon: github
   icon_pack: fab
   name: source code
-  url: https://github.com/weecology.com/MATSS
+  url: https://github.com/weecology/MATSS
 - icon: archive
   icon_pack: fas
   name: archive

@@ -5,12 +5,12 @@
 
 [[main]]
   name = "Projects"
-  url = "/projects/"
+  url = "/research/"
   weight = "2"
 
 [[main]]
   name = "Publications"
-  url = "/publications/"
+  url = "/pubs/"
   weight = "3"
 
 [[main]]

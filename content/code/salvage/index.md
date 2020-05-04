@@ -1,13 +1,14 @@
 ---
 aliases: [salvage]
 title: salvage
-summary: bash and R tools for accessing Access databases without access to Acccess.
+summary: Smooth interactions with the California Delta fish salvage databases.
 tags:
 - package
 date: 
 authors: 
 -
 image:
+  alt_text: salvage hex logo of some fishes
 links:
 - icon: globe
   icon_pack: fas
@@ -16,7 +17,7 @@ links:
 - icon: github
   icon_pack: fab
   name: source code
-  url: https://github.com/dapperstats.com/salvage
+  url: https://github.com/dapperstats/salvage
 - icon: archive
   icon_pack: fas
   name: archive

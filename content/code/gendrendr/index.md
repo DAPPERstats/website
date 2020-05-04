@@ -8,6 +8,7 @@ date:
 authors: 
 -
 image:
+  alt_text: gendrendr hex logo, a neutrois symbol breaking a brick wall
 links:
 - icon: globe
   icon_pack: fas
@@ -16,7 +17,7 @@ links:
 - icon: github
   icon_pack: fab
   name: source code
-  url: https://github.com/dapperstats.com/gendrendr
+  url: https://github.com/dapperstats/gendrendr
 - icon: archive
   icon_pack: fas
   name: archive

@@ -8,6 +8,7 @@ date:
 authors: 
 -
 image:
+  alt_text: Mt Hood drainage from airplane
 links:
 - icon: r-project
   icon_pack: fab
@@ -20,7 +21,7 @@ links:
 - icon: github
   icon_pack: fab
   name: source code
-  url: https://github.com/weecology.com/LDATS
+  url: https://github.com/weecology/LDATS
 - icon: archive
   icon_pack: fas
   name: archive

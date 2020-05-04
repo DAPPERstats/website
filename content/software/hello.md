@@ -5,7 +5,7 @@ active = true
 weight = 1
 
 title = "Software Products"
-subtitle = "We provide full-stack software development, with custom solutions for data management to user-friendly apps."
+subtitle = "We provide customized solutions across the entire software stack."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

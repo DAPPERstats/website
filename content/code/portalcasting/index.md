@@ -8,6 +8,7 @@ date:
 authors: 
 -
 image:
+  alt_text: portalcasting hex logo of a grasshopper mouse fishing with a pole and tacklebox
 links:
 - icon: globe
   icon_pack: fas
@@ -16,7 +17,7 @@ links:
 - icon: github
   icon_pack: fab
   name: source code
-  url: https://github.com/weecology.com/portalcasting
+  url: https://github.com/weecology/portalcasting
 - icon: archive
   icon_pack: fas
   name: archive

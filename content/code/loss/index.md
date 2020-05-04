@@ -9,8 +9,9 @@ date:
 authors: 
 -
 image:
+  alt_text: fish facility at pumping plant
 links:
-- icon: globe
+- icon: desktop
   icon_pack: fas
   name: live web app
   url: https://fishsciences.shinyapps.io/loss-calculator/

@@ -6,7 +6,7 @@ layout: docs
 title: ""
 ---
 
-![](/img/bookshelf_lean.jpg#alignright)
+![Juniper leaning against a bookshelf](/img/bookshelf_lean.jpg#alignright)
 
 # Services
 
@@ -18,7 +18,7 @@ DAPPER Stats provides on-point quantitative support for every stage of the resea
 * Cost-benefit and power analyses
 * Real-time adaptive management
 
-![](/img/whiteboard.jpg#alignright)
+![Writing math equations on a whiteboard](/img/whiteboard.jpg#alignright)
 
 ### Analysis
 
@@ -28,12 +28,13 @@ DAPPER Stats provides on-point quantitative support for every stage of the resea
 * Mark-Recapture
 * Multi-dataset approaches
 
+![Workflow diagram from the Portal Predictions paper](/img/portal_flow.png#alignright)
+
 ### Graphics & Figures
 
 * Publication-ready figures
 * Spatial population and ecosystem mapping
 
-![](/img/portal_flow.png#alignright)
 
 ### Automated Reporting
 
@@ -49,7 +50,7 @@ DAPPER Stats provides on-point quantitative support for every stage of the resea
 
 ### Code Support
 
-![](/img/writing.jpg#alignright)
+![Juniper writing in a notebook](/img/writing.jpg#alignright)
 
 * R/Rstudio/Shiny
 * C/C++
@@ -59,14 +60,18 @@ DAPPER Stats provides on-point quantitative support for every stage of the resea
 * Docker
 * markdown
 
+![Juniper giving a presentation](/img/pres.jpg#alignright)
+
 ### Scientific Writing, Editing, & Review
 
 * Technical reports
 * Peer-reviewed manuscripts
 * Species/Ecosystem assessments
 
+
 ### Teaching & Training
 
+* Classic and flipped approached
 * Coding and analyses workshops
 * On-call assistance
 

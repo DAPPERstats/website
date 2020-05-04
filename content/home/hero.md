@@ -8,6 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "On-Point Quantitative Analyses"
 
 hero_media = "hat.jpg"
+hero_media_alttext = "A hat, bow-tie, and some math on a clipboard"
 
 [design.background]
   color = "#eaf9ff"

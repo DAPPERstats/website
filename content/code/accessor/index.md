@@ -7,7 +7,6 @@ tags:
 date: 
 authors: 
 -
-image:
 links:
 - icon: github
   icon_pack: fab
@@ -17,6 +16,9 @@ links:
   icon_pack: fas
   name: archive
   url: https://doi.org/10.5281/zenodo.3611911
+
+image:
+
 ---
 
 [`accessor`](https://github.com/dapperstats.com/accessor) allows access Access<sup>&reg;</sup> databases without access to Access<sup>&reg;</sup>

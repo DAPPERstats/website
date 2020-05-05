@@ -31,7 +31,7 @@ DAPPER Stats develops cutting-edge computational and statistical tools that addr
 DAPPER Stats was formed out of a need to have a safe and supportive work environment, and as such, prioritizes employee health and well-being as an ethical standard. 
 We actively challenge the notion of a rigid work schedule, and support our employees in developing schedules that are healthful and lead to productive science.
 
-We recognize that society as a whole (and science in particular) is fraught with hierarchies of priviledge and power and a history of barbarc colonialism. 
+We recognize that society as a whole (and science in particular) is fraught with hierarchies of priviledge and power and a history of barbaric colonialism. 
 We seek to draw attention to, challenge, and break down such systems wherever and whenever possible. 
 DAPPER supports our employees in such causes which are important to them, and is willing to contribute resources as possible.
 

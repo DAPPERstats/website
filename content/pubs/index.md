@@ -1,6 +1,6 @@
 ---
 date: ""
-summary: Software
+summary: Publications
 title: ""
 type: widget_page
 ---

@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>/publication/simonis_2020/</loc>
+    <loc>/publication/simonis_2020a/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -54,6 +54,11 @@
   
   <url>
     <loc>/author/j.-m.-meiners-m.-c.-orr-k.-riemer-t.-l.-griswold-and-j.-l.-simonis/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/simonis_2020b/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -416,6 +421,10 @@
   
   <url>
     <loc>/tag/application/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/chemical_weapons/</loc>
   </url>
   
   <url>

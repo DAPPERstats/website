@@ -7,10 +7,21 @@
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© DAPPER Stats, 2020</copyright>
     <image>
-      <url>/img/hex_logo.png</url>
+      <url>/img/share_logo.jpg</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Chemical Weapons Ecotoxicology</title>
+      <link>/project/chemical_weapons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/chemical_weapons/</guid>
+      <description>&lt;p&gt;We are studying the use of chemical weapons by law enforcement and are particularly interested in their impacts on the aquatic environment.&lt;/p&gt;
+&lt;p&gt;This work is done in collaboration with members of the 
+&lt;a href=&#34;https://chemicalweaponsresearch.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chemical Weapons Research Consortium&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Compositional Time Series</title>

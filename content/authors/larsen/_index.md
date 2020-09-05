@@ -53,7 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team DAPPER
+- Alumni
 ---
 
 Dr. Megan Larsen  (*she/her*) has worked in environmental sciences for over a decade, with an interest in microbial ecology and the health of aquatic ecosystems.
@@ -62,7 +62,7 @@ Dr. Larsen obtained her BS in Biochemistry and Molecular Biology from [Nebraska 
 
 Since graduating from IU, Dr. Larsen has been a Postdoctoral Fellow in the [Department of Geography and Environmental Studies](https://students.wlu.ca/programs/arts/geography-and-environmental-studies/index.html) at [Wilfrid Laurier University](https://www.wlu.ca/) joint with the [Department of and Earth and Environmental Sciences](https://uwaterloo.ca/earth-environmental-sciences/about) at the [University of Waterloo](https://uwaterloo.ca/).
 
-Dr. Larsen joined DAPPER Stats in 2020 as a Data Scientist.
+Dr. Larsen joined DAPPER Stats for 6 months in 2020 as a Data Scientist.
 
 While not working, Dr. Larsen is a distance runner.
 

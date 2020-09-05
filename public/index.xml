@@ -7,7 +7,7 @@
     <description>DAPPER Stats</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© DAPPER Stats, 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/hex_logo.png</url>
+      <url>/img/share_logo.jpg</url>
       <title>DAPPER Stats</title>
       <link>/</link>
     </image>
@@ -44,9 +44,17 @@
     
     <item>
       <title>Crescent Dunes Solar Project avian mortality analyses with multi-year rates</title>
-      <link>/publication/simonis_2020/</link>
+      <link>/publication/simonis_2020a/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/simonis_2020/</guid>
+      <guid>/publication/simonis_2020a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the strength of vegetational seasonality</title>
+      <link>/publication/simonis_2020b/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/simonis_2020b/</guid>
       <description></description>
     </item>
     
@@ -819,6 +827,17 @@ Figure 1: A fancy pie chart.
 &lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://orcid.org/0000-0001-9798-0460&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Juniper L. Simonis&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chemical Weapons Ecotoxicology</title>
+      <link>/project/chemical_weapons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/chemical_weapons/</guid>
+      <description>&lt;p&gt;We are studying the use of chemical weapons by law enforcement and are particularly interested in their impacts on the aquatic environment.&lt;/p&gt;
+&lt;p&gt;This work is done in collaboration with members of the 
+&lt;a href=&#34;https://chemicalweaponsresearch.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chemical Weapons Research Consortium&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
